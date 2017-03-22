@@ -1,6 +1,4 @@
-
-
-![](/assets/linkedIn_header.jpg)
+![](/dizajn/header.jpg)
 
 # Mozilla Srbija
 
