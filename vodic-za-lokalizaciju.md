@@ -1,4 +1,5 @@
 ![mozilla srbija logo](images/header.jpg)
+
 # Водич за локализацију
 
 ### Садржај
