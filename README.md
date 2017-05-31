@@ -2,6 +2,19 @@
 
 # Mozilla Srbija
 
-Radi lakšeg organizovanja zadataka u organizaciji, koristićemo ovaj GitHub repozitorijum kako bismo pratili aktivnosti u zajednici, šta sve treba da se odradi i do kada. Koristićemo ga i za formiranje planova za buduće hakatone i okupljanja.
+1. [O projektu](#o-projektu)
+2. [Osnovne informacije](#osnovne-informacije)
+3. [Kontakt](#kontakt)
 
-Za međusobnu komunikaciju koristimo Telegram grupu i #mozilla.sr IRC kanal. Da biste pristupili Telegram grupi otvorite link [https://t.me/joinchat/AAAAAAbMLQuoptF25YOfeQ](https://t.me/joinchat/AAAAAAbMLQuoptF25YOfeQ)
+### O projektu
+
+Radi lakše organizacije u zajednici, koristićemo ovaj GitHub repozitorijum za organizaciju i formiranje budućih projekata, hakatona i raznih drugih događaja.
+
+### Osnovne informacije
+
+* Veb sajt zajednice - http://mozilla.rs/
+* Pontoon projekti - https://pontoon.mozilla.org/sr/
+
+### Kontakt
+
+Za međusobnu komunikaciju u zajednici koristimo [Telegram](https://t.me/joinchat/AAAAAAbMLQuoptF25YOfeQ) i [IRC](irc://irc.mozilla.org/mozilla.sr/), ali u slučaju da imate bilo kakva pitanja ili želite da volontirate za našu zajednicu, možete nas kontaktirati i putem društvenih mreža.
