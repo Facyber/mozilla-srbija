@@ -14,7 +14,9 @@ Radi lakše organizacije u zajednici, koristićemo ovaj GitHub repozitorijum za 
 
 * Veb sajt zajednice - http://mozilla.rs/
 * Pontoon projekti - https://pontoon.mozilla.org/sr/
+* Telegram - https://t.me/joinchat/AAAAAAbMLQuoptF25YOfeQ
+* IRC - irc://irc.mozilla.org/mozilla.sr/
 
 ### Kontakt
 
-Za međusobnu komunikaciju u zajednici koristimo [Telegram](https://t.me/joinchat/AAAAAAbMLQuoptF25YOfeQ) i [IRC](irc://irc.mozilla.org/mozilla.sr/) ali u slučaju da imate bilo kakva pitanja ili želite da volontirate za našu zajednicu, možete nas kontaktirati i putem društvenih mreža.
+Za međusobnu komunikaciju u zajednici koristimo Telegram i IRC, ali u slučaju da imate bilo kakva pitanja ili želite da volontirate za našu zajednicu, možete nas kontaktirati i putem društvenih mreža.
